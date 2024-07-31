@@ -56,10 +56,6 @@ To run the code and notebooks provided in this repository, you will need the fol
 - Seaborn
 - Jupyter Notebook
 
-You can install the required packages using pip:
-
-```bash
-pip install numpy pandas scikit-learn tensorflow torch opencv-python matplotlib seaborn jupyter
 
 For more details and additional resources, refer to the Learners' Space repository by WnCC - https://github.com/wncc/Machine-Learning-LS-24/tree/main.
 
